@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\block.png</Source>
+      <Name>Textures\block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\Textures\block.xnb</Output>
+      <Time>2008-12-06T21:33:54+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\block2.png</Source>
+      <Name>Textures\block2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\Textures\block2.xnb</Output>
+      <Time>2008-12-06T21:33:54+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Idle.png</Source>
+      <Name>Textures\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\Textures\Idle.xnb</Output>
+      <Time>2008-12-09T16:25:50+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Jump.png</Source>
+      <Name>Textures\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\Textures\Jump.xnb</Output>
+      <Time>2008-12-09T16:25:50+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Run.png</Source>
+      <Name>Textures\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\Textures\Run.xnb</Output>
+      <Time>2008-12-09T16:25:50+04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{4893B670-8DD3-4183-B7BD-EA8E5650C31A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-04-23T21:52:56.5833265+04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

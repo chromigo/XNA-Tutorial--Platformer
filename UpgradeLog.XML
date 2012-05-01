@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LevelGame">
+</Property><Property Name="Solution File" Value="D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame.sln">
+</Property><Property Name="User Options File" Value="D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame.suo">
+</Property><Property Name="Date" Value="1 мая 2012 г.">
+</Property><Property Name="Time" Value="18:55">
+</Property><Property Name="Solution" Value="LevelGame">
+</Property><Property Name="Solution File" Value="D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame.sln">
+</Property><Property Name="Date" Value="1 мая 2012 г.">
+</Property><Property Name="Time" Value="18:55:34">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LevelGame.sln" Description="File successfully backed up as D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\Backup\LevelGame.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LevelGame.suo" Description="File successfully backed up as D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\Backup\LevelGame.suo">
+</Event><Event ErrorLevel="0" Project="LevelGame" Source="LevelGame\LevelGame.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="LevelGame" Source="LevelGame\LevelGame.csproj" Description="Project file successfully backed up as D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\Backup\LevelGame\LevelGame.csproj">
+</Event><Event ErrorLevel="0" Project="LevelGame" Source="LevelGame\LevelGame.csproj.user" Description="Project user file successfully backed up as D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\Backup\LevelGame\LevelGame.csproj.user">
+</Event><Event ErrorLevel="0" Project="LevelGame" Source="LevelGame\AnimatedSprite.cs" Description="File successfully backed up as D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\Backup\LevelGame\AnimatedSprite.cs">
+</Event><Event ErrorLevel="0" Project="LevelGame" Source="LevelGame\Block.cs" Description="File successfully backed up as D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\Backup\LevelGame\Block.cs">
+</Event><Event ErrorLevel="0" Project="LevelGame" Source="LevelGame\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\Backup\LevelGame\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LevelGame" Source="LevelGame\Program.cs" Description="File successfully backed up as D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\Backup\LevelGame\Program.cs">
+</Event><Event ErrorLevel="0" Project="LevelGame" Source="LevelGame\Game1.cs" Description="File successfully backed up as D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\Backup\LevelGame\Game1.cs">
+</Event><Event ErrorLevel="0" Project="LevelGame" Source="LevelGame\Game.ico" Description="File successfully backed up as D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\Backup\LevelGame\Game.ico">
+</Event><Event ErrorLevel="0" Project="LevelGame" Source="LevelGame\GameThumbnail.png" Description="File successfully backed up as D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\Backup\LevelGame\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="LevelGame" Source="LevelGame\LevelGame.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LevelGame" Source="LevelGame\LevelGame.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LevelGame.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LevelGame.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LevelGame" Source="LevelGame\LevelGame.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LevelGame" Source="LevelGame\LevelGame.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="level1.txt" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="level2.txt" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="level3.txt" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="block.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="block2.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Idle.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Jump.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Run.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="LevelGameContent" Source="LevelGame\Content\LevelGameContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

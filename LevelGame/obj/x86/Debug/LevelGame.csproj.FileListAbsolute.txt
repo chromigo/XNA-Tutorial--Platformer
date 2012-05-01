@@ -1,0 +1,14 @@
+D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\Textures\block.xnb
+D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\Textures\block2.xnb
+D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\Textures\Idle.xnb
+D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\Textures\Jump.xnb
+D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\Textures\Run.xnb
+D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\Levels\level1.txt
+D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\Levels\level2.txt
+D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\Levels\level3.txt
+D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\LevelGame.exe
+D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\LevelGame.pdb
+D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\obj\x86\Debug\LevelGame.exe
+D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\obj\x86\Debug\LevelGame.pdb

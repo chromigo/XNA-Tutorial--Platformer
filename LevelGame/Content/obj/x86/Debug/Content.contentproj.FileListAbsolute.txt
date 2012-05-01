@@ -1,0 +1,4 @@
+D:\work\techdays\lessons\2д игра\Урок 3\LevelGame\LevelGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work\techdays\lessons\2д игра\Урок 5\LevelGame_finished\LevelGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work\techdays\lessons\2д игра\Урок 5\LevelGame\LevelGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\work\techdays\lessons\2д игра\Урок 6\LevelGame\LevelGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelGame", "LevelGame\LevelGame.csproj", "{137EBAFE-2345-47DC-9D2A-C06A6D221B2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137EBAFE-2345-47DC-9D2A-C06A6D221B2A}.Debug|x86.ActiveCfg = Debug|x86
+		{137EBAFE-2345-47DC-9D2A-C06A6D221B2A}.Debug|x86.Build.0 = Debug|x86
+		{137EBAFE-2345-47DC-9D2A-C06A6D221B2A}.Release|x86.ActiveCfg = Release|x86
+		{137EBAFE-2345-47DC-9D2A-C06A6D221B2A}.Release|x86.Build.0 = Release|x86
+		{4893B670-8DD3-4183-B7BD-EA8E5650C31A}.Debug|x86.ActiveCfg = Debug|x86
+		{4893B670-8DD3-4183-B7BD-EA8E5650C31A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

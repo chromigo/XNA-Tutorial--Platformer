@@ -1,0 +1,8 @@
+Content\Textures\block.xnb
+Content\Textures\block2.xnb
+Content\Textures\Idle.xnb
+Content\Textures\Jump.xnb
+Content\Textures\Run.xnb
+Content\Levels\level1.txt
+Content\Levels\level2.txt
+Content\Levels\level3.txt
