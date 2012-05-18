@@ -20,11 +20,13 @@ namespace LevelGame
 
         Texture2D bg_image;
 
-        private Point bgFrameSize = new Point(244, 250);
-        private Point currPosition = new Point(0, 0);
-        private Point bgSheetSize = new Point(2, 1);
-        private int bgMillisecondsPerFrame = 100;
-        private int bgTimeSinceLastFrame = 0;
+        //private Point bgFrameSize = new Point(400, 200);
+        //private Point currPosition = new Point(0, 0);
+        //private Point bgSheetSize = new Point(2, 1);
+        //private int bgMillisecondsPerFrame = 150;
+        //private int bgTimeSinceLastFrame = 0;
+
+
         //Создаем наше устройство
         GraphicsDeviceManager graphics;
         //Спрайт - основной элемент для отображения графики и текста 2д
@@ -168,8 +170,8 @@ namespace LevelGame
             idleTexture = Content.Load<Texture2D>("Textures/idle");
             runTexture = Content.Load<Texture2D>("Textures/run");
             jumpTexture = Content.Load<Texture2D>("Textures/jump");
-           // bg_image = Content.Load<Texture2D>("Textures/bg2");
-            bg_image = Content.Load<Texture2D>("Textures/bg");
+            bg_image = Content.Load<Texture2D>("Textures/bg2");
+           // bg_image = Content.Load<Texture2D>("Textures/bg");
 
             Rectangle rect = new Rectangle(0, Height - idleTexture.Height - 40, 60, 60);
             hero = new AnimatedSprite(rect, idleTexture, runTexture, jumpTexture, this);
@@ -225,21 +227,21 @@ namespace LevelGame
             hero.Update(gameTime);
 
 
-            bgTimeSinceLastFrame += gameTime.ElapsedGameTime.Milliseconds;
-            if (bgTimeSinceLastFrame > bgMillisecondsPerFrame)
-            {
-                bgTimeSinceLastFrame -= bgMillisecondsPerFrame;
-                ++currPosition.X;
-                if (currPosition.X >= bgSheetSize.X)
-                {
-                    currPosition.X = 0;
-                    ++currPosition.Y;
-                    if (currPosition.Y >= bgSheetSize.Y)
-                    {
-                        currPosition.Y = 0;
-                    }
-                }
-            }
+            //bgTimeSinceLastFrame += gameTime.ElapsedGameTime.Milliseconds;
+            //if (bgTimeSinceLastFrame > bgMillisecondsPerFrame)
+            //{
+            //    bgTimeSinceLastFrame -= bgMillisecondsPerFrame;
+            //    ++currPosition.X;
+            //    if (currPosition.X >= bgSheetSize.X)
+            //    {
+            //        currPosition.X = 0;
+            //        ++currPosition.Y;
+            //        if (currPosition.Y >= bgSheetSize.Y)
+            //        {
+            //            currPosition.Y = 0;
+            //        }
+            //    }
+            //}
 
 
 
@@ -256,8 +258,8 @@ namespace LevelGame
 
             // TODO: Add your drawing code here
             spriteBatch.Begin();
-            spriteBatch.Draw(bg_image, Vector2.Zero, new Rectangle(currPosition.X * bgFrameSize.X, currPosition.Y * bgFrameSize.Y, bgFrameSize.X, bgFrameSize.Y), Color.White);
-           // spriteBatch.Draw(bg_image, Vector2.Zero, new Rectangle(300, 300, 800, 600), Color.White);
+            // spriteBatch.Draw(bg_image, Vector2.Zero, new Rectangle(currPosition.X * bgFrameSize.X, currPosition.Y * bgFrameSize.Y, bgFrameSize.X, bgFrameSize.Y), Color.White);
+            spriteBatch.Draw(bg_image, Vector2.Zero, new Rectangle(0, 0, 800, 600), Color.White);
             foreach (Block block in blocks)
             {
                 block.Draw(spriteBatch);
