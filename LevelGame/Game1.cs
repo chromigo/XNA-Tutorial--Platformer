@@ -55,6 +55,7 @@ namespace LevelGame
 
         static int ScrollX;
         int levelLength;
+        int blcSize = 20;
 
         int currentLevel;
 
@@ -117,14 +118,14 @@ namespace LevelGame
             blocks = new List<Block>();
             string[] s = File.ReadAllLines("content/levels/level" + currentLevel + ".txt");
 
-            levelLength = 40 * s[0].Length;
+            levelLength = blcSize * s[0].Length - 400;
             int x = 0;
             int y = 0;
             foreach (string str in s)
             {
                 foreach (char c in str)
                 {
-                    Rectangle rect = new Rectangle(x, y, 20, 20);
+                    Rectangle rect = new Rectangle(x, y, blcSize, blcSize);
                     if (c == 'X')
                     {
                         
@@ -136,10 +137,10 @@ namespace LevelGame
                         Block block = new Block(rect, blockTexture2);
                         blocks.Add(block);
                     }
-                    x += 20;
+                    x += blcSize;
                 }
                 x = 0;
-                y += 20;
+                y += blcSize;
             }
         }
         /// <summary>
