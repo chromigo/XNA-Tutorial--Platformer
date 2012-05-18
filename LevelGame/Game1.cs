@@ -60,7 +60,7 @@ namespace LevelGame
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
 
-            Width = graphics.PreferredBackBufferWidth = 400;
+            Width = graphics.PreferredBackBufferWidth = 800;
             Height = graphics.PreferredBackBufferHeight = 400;
         }
         //Игровые функции
@@ -96,7 +96,7 @@ namespace LevelGame
         }
         public void Scroll(int dx)
         {
-            if (ScrollX + dx >= 0 && ScrollX + dx <= levelLength - 400)
+            if (ScrollX + dx >= 0 && ScrollX + dx <= levelLength - Height)
                 ScrollX += dx;
         }
         public void CreateLevel()

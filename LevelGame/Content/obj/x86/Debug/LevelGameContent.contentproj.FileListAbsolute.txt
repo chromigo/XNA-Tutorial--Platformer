@@ -1,1 +1,2 @@
 D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache

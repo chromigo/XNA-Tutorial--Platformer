@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\Textures\block.xnb</Output>
+      <Output>C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\block.xnb</Output>
       <Time>2008-12-06T21:33:54+04:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\Textures\block2.xnb</Output>
+      <Output>C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\block2.xnb</Output>
       <Time>2008-12-06T21:33:54+04:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\Textures\Idle.xnb</Output>
+      <Output>C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\Idle.xnb</Output>
       <Time>2008-12-09T16:25:50+04:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\Textures\Jump.xnb</Output>
+      <Output>C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\Jump.xnb</Output>
       <Time>2008-12-09T16:25:50+04:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\Textures\Run.xnb</Output>
+      <Output>C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\Run.xnb</Output>
       <Time>2008-12-09T16:25:50+04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -53,10 +53,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\Content\</RootDirectory>
-      <LoggerRootDirectory>D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\</LoggerRootDirectory>
-      <IntermediateDirectory>D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

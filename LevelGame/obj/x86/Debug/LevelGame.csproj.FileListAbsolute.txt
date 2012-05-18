@@ -12,3 +12,17 @@ D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\Level
 D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\bin\x86\Debug\LevelGame.pdb
 D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\obj\x86\Debug\LevelGame.exe
 D:\УчЕба\C#,.net,XNA\Уроки(www.techdays.ru)\2.6\LevelGame_after2\LevelGame\obj\x86\Debug\LevelGame.pdb
+C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\block.xnb
+C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\block2.xnb
+C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\Idle.xnb
+C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\Jump.xnb
+C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\Run.xnb
+C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Levels\level1.txt
+C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Levels\level2.txt
+C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Levels\level3.txt
+C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\LevelGame.exe
+C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\LevelGame.pdb
+C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\obj\x86\Debug\LevelGame.exe
+C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\obj\x86\Debug\LevelGame.pdb
