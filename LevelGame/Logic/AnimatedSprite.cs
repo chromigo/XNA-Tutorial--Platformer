@@ -20,6 +20,10 @@ namespace LevelGame
         bool isSlowMode;
         bool isRunningRight;
         bool isJumping;
+        bool isFallMode; //В оздухе ли он 
+
+        //Ожидание перед отрывом в прыжке
+        bool isWaiting; 
 
         //Физические величины
         float yVelocity;
@@ -29,6 +33,9 @@ namespace LevelGame
         //Размеры героя
         int frameWidth;
         int frameHeight;
+
+        //Количество кадров в ожидании отрыва
+        int waitedFrames = 0;
         
         /// <summary>
         /// Ширина кадра
@@ -45,7 +52,7 @@ namespace LevelGame
 
         //Параметры времени (сколько прошло и сколько на кадр)
         int timeElapsed;
-        int timeForFrame = 100;
+        int timeForFrame = 30;
 
         Game1 game;
         //Инициализация
@@ -73,7 +80,7 @@ namespace LevelGame
         /// <param name="isRight"></param>
         public void StartRun(bool isRight)
         {
-            if (!isRunning)
+            if (!isRunning && waitedFrames == 0)
             {
                 isRunning = true;
                 currentFrame = 0;
@@ -95,10 +102,11 @@ namespace LevelGame
         {
             if (!isJumping && yVelocity == 0.0f)
             {
+                isWaiting = true;
+                waitedFrames = 1;
                 isJumping = true;
                 currentFrame = 0;
                 timeElapsed = 0;
-                yVelocity = maxYVelocity;
             }
         }
 
@@ -117,10 +125,11 @@ namespace LevelGame
 
             bool collideOnFallDown = (game.CollidesWithLevel(boudingRect) && yVelocity < 0);
 
-            if (boudingRect.Bottom > game.Height || collideOnFallDown)
+            if ((boudingRect.Bottom > game.Height || collideOnFallDown) && waitedFrames == 0)
             {
                 yVelocity = 0;
                 isJumping = false;
+                isFallMode = false;
             }
 
         }
@@ -128,11 +137,25 @@ namespace LevelGame
         {
             timeElapsed += gameTime.ElapsedGameTime.Milliseconds;
             int tempTime = timeForFrame;
+            //Состояния
             if (isSlowMode)
                 tempTime *= 4;
+            if (isFallMode)
+                tempTime *= 4;
+            //Отрыв в прыжке
+            if (waitedFrames > 5)
+            {
+                yVelocity = maxYVelocity;
+                isWaiting = false;
+                isFallMode = true;
+                waitedFrames = 0;
+            }
+
             if (timeElapsed > tempTime)
             {
                 currentFrame = (currentFrame + 1) % Frames;
+                //Повышение количества ожиданных кадров
+                if (isWaiting) waitedFrames = waitedFrames + 1;
                 timeElapsed = 0;
             }
 
