@@ -124,7 +124,7 @@ namespace LevelGame
             {
                 foreach (char c in str)
                 {
-                    Rectangle rect = new Rectangle(x, y, 40, 40);
+                    Rectangle rect = new Rectangle(x, y, 20, 20);
                     if (c == 'X')
                     {
                         
@@ -136,10 +136,10 @@ namespace LevelGame
                         Block block = new Block(rect, blockTexture2);
                         blocks.Add(block);
                     }
-                    x += 40;
+                    x += 20;
                 }
                 x = 0;
-                y += 40;
+                y += 20;
             }
         }
         /// <summary>
