@@ -122,15 +122,22 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Textures\bg.png">
-      <Name>bg</Name>
+    <Compile Include="Textures\bg2.jpg">
+      <Name>bg2</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Textures\bg2.jpg">
-      <Name>bg2</Name>
+    <Compile Include="Textures\graal.png">
+      <Name>graal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Textures\coin.png">
+      <Name>coin</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>

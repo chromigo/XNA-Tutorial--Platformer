@@ -42,3 +42,40 @@ C:\Users\CHROME\Desktop\XNA Tutorial\chromigo-XNA-Tutorial--Platformer-9b94291\L
 C:\Users\CHROME\Desktop\XNA Tutorial\chromigo-XNA-Tutorial--Platformer-9b94291\LevelGame\obj\x86\Debug\LevelGame.pdb
 C:\Users\CHROME\Desktop\XNA Tutorial\chromigo-XNA-Tutorial--Platformer-9b94291\LevelGame\bin\x86\Debug\Content\Textures\bg.xnb
 C:\Users\CHROME\Desktop\XNA Tutorial\chromigo-XNA-Tutorial--Platformer-9b94291\LevelGame\bin\x86\Debug\Content\Textures\bg2.xnb
+c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\block.xnb
+c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\block2.xnb
+c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\Idle.xnb
+c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\Jump.xnb
+c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\Run.xnb
+c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\bg2.xnb
+c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Levels\level1.txt
+c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Levels\level2.txt
+c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Levels\level3.txt
+c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\LevelGame.exe
+c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\LevelGame.pdb
+c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\obj\x86\Debug\LevelGame.csprojResolveAssemblyReference.cache
+c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\obj\x86\Debug\LevelGame.exe
+c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\obj\x86\Debug\LevelGame.pdb
+C:\Users\Slackerburst\Documents\visual studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\graal.xnb
+C:\Users\Slackerburst\Documents\visual studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\coin.xnb
+H:\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\block.xnb
+H:\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\block2.xnb
+H:\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\Idle.xnb
+H:\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\Jump.xnb
+H:\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\Run.xnb
+H:\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\bg2.xnb
+H:\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\graal.xnb
+H:\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\coin.xnb
+H:\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Levels\level1.txt
+H:\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Levels\level2.txt
+H:\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Levels\level3.txt
+H:\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\LevelGame.exe
+H:\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\LevelGame.pdb
+H:\XNA-Tutorial--Platformer\LevelGame\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\XNA-Tutorial--Platformer\LevelGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\XNA-Tutorial--Platformer\LevelGame\obj\x86\Debug\LevelGame.exe
+H:\XNA-Tutorial--Platformer\LevelGame\obj\x86\Debug\LevelGame.pdb
+C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\bg2.xnb
+C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\graal.xnb
+C:\Users\CHROME\Desktop\XNA Tutorial\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\coin.xnb

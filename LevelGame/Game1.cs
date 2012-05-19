@@ -35,6 +35,8 @@ namespace LevelGame
         //Текстуры уровня(2 разных блока)
         Texture2D blockTexture1;
         Texture2D blockTexture2;
+        Texture2D finishTexture;
+        Texture2D coinTexture;
 
         //Текстуры движения(стоит, бежит, прыгает)
         Texture2D idleTexture;
@@ -52,6 +54,7 @@ namespace LevelGame
         /// Список блоков
         /// </summary>
         List<Block> blocks;
+        List<Item> items;
 
         static int ScrollX;
         int levelLength;
@@ -72,7 +75,7 @@ namespace LevelGame
             Content.RootDirectory = "Content";
 
             Width = graphics.PreferredBackBufferWidth = 800;
-            Height = graphics.PreferredBackBufferHeight = 400;
+            Height = graphics.PreferredBackBufferHeight = 20 * blcSize;
         }
         //Игровые функции
 
@@ -142,6 +145,35 @@ namespace LevelGame
                 x = 0;
                 y += blcSize;
             }
+
+            //Пробую итемы
+            items = new List<Item>();
+            string[] s1 = File.ReadAllLines("content/levels/level" + currentLevel + ".txt");
+
+            x = 0;
+            y = 0;
+            foreach (string str in s)
+            {
+                foreach (char c in str)
+                {
+                    Rectangle rect = new Rectangle(x, y, blcSize, blcSize);
+                    if (c == 'F')
+                    {
+                        Item graal = new Item(rect, finishTexture);
+                        items.Add(graal);
+                    }
+                    if (c == 'C')
+                    {
+                        Item graal = new Item(rect, coinTexture);
+                        items.Add(graal);
+                    }
+                    x += blcSize;
+                }
+                x = 0;
+                y += blcSize;
+            }
+
+
         }
         /// <summary>
         /// Allows the game to perform any initialization it needs to before starting to run.
@@ -171,9 +203,12 @@ namespace LevelGame
             idleTexture = Content.Load<Texture2D>("Textures/idle");
             runTexture = Content.Load<Texture2D>("Textures/run");
             jumpTexture = Content.Load<Texture2D>("Textures/jump");
-            bg_image = Content.Load<Texture2D>("Textures/bg2");
-           // bg_image = Content.Load<Texture2D>("Textures/bg");
 
+            bg_image = Content.Load<Texture2D>("Textures/bg2");
+            finishTexture = Content.Load<Texture2D>("Textures/graal");
+            coinTexture = Content.Load<Texture2D>("Textures/coin");
+           // bg_image = Content.Load<Texture2D>("Textures/bg");
+            
             Rectangle rect = new Rectangle(0, Height - idleTexture.Height - 40, 60, 60);
             hero = new AnimatedSprite(rect, idleTexture, runTexture, jumpTexture, this);
 
@@ -264,6 +299,10 @@ namespace LevelGame
             foreach (Block block in blocks)
             {
                 block.Draw(spriteBatch);
+            }
+            foreach (Item item in items)
+            {
+                item.Draw(spriteBatch);
             }
             spriteBatch.End();
 

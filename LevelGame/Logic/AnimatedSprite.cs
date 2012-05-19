@@ -27,7 +27,7 @@ namespace LevelGame
 
         //Физические величины
         float yVelocity;
-        float maxYVelocity = 10;
+        float maxYVelocity = 7;
         float g = 0.2f;
 
         //Размеры героя

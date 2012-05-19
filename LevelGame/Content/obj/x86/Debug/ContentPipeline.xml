@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\work\techdays\lessons\2д игра\Урок 6\LevelGame\LevelGame\bin\x86\Debug\Content\Textures\block.xnb</Output>
-      <Time>2008-12-06T21:33:52.800463+03:00</Time>
+      <Output>c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\block.xnb</Output>
+      <Time>2012-05-19T00:19:31.3492427+04:00</Time>
     </Item>
     <Item>
       <Source>Textures\block2.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\work\techdays\lessons\2д игра\Урок 6\LevelGame\LevelGame\bin\x86\Debug\Content\Textures\block2.xnb</Output>
-      <Time>2008-12-06T21:33:52.814463+03:00</Time>
+      <Output>c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\block2.xnb</Output>
+      <Time>2012-05-19T00:19:31.3512429+04:00</Time>
     </Item>
     <Item>
       <Source>Textures\Idle.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\work\techdays\lessons\2д игра\Урок 6\LevelGame\LevelGame\bin\x86\Debug\Content\Textures\Idle.xnb</Output>
-      <Time>2008-12-09T16:25:49.8154658+03:00</Time>
+      <Output>c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\Idle.xnb</Output>
+      <Time>2012-05-19T04:31:05.6865895+04:00</Time>
     </Item>
     <Item>
       <Source>Textures\Jump.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\work\techdays\lessons\2д игра\Урок 6\LevelGame\LevelGame\bin\x86\Debug\Content\Textures\Jump.xnb</Output>
-      <Time>2008-12-09T16:25:49.8264658+03:00</Time>
+      <Output>c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\Jump.xnb</Output>
+      <Time>2012-05-19T04:26:25.1645445+04:00</Time>
     </Item>
     <Item>
       <Source>Textures\Run.png</Source>
@@ -43,43 +43,75 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\work\techdays\lessons\2д игра\Урок 6\LevelGame\LevelGame\bin\x86\Debug\Content\Textures\Run.xnb</Output>
-      <Time>2008-12-09T16:25:49.8384658+03:00</Time>
+      <Output>c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\Run.xnb</Output>
+      <Time>2012-05-19T04:22:23.6217291+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\bg2.jpg</Source>
+      <Name>Textures\bg2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\Slackerburst\Documents\Visual Studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\bg2.xnb</Output>
+      <Time>2012-05-19T00:38:09.8952199+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\graal.png</Source>
+      <Name>Textures\graal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slackerburst\Documents\visual studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\graal.xnb</Output>
+      <Time>2012-05-19T03:12:38.7123659+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\coin.png</Source>
+      <Name>Textures\coin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Slackerburst\Documents\visual studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\Textures\coin.xnb</Output>
+      <Time>2012-05-19T03:32:04.6230522+04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>D:\work\techdays\lessons\2д игра\Урок 6\LevelGame\LevelGame\Content\</RootDirectory>
-      <LoggerRootDirectory>D:\work\techdays\lessons\2д игра\Урок 6\LevelGame\LevelGame\</LoggerRootDirectory>
-      <IntermediateDirectory>D:\work\techdays\lessons\2д игра\Урок 6\LevelGame\LevelGame\Content\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>D:\work\techdays\lessons\2д игра\Урок 6\LevelGame\LevelGame\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Slackerburst\Documents\visual studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Slackerburst\Documents\visual studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Slackerburst\Documents\visual studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Slackerburst\Documents\visual studio 2010\Projects\XNA-Tutorial--Platformer\LevelGame\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2008-10-10T18:42:32+04:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+05:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2008-10-10T18:43:28+04:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+05:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2008-10-10T18:43:18+04:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+05:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2008-10-10T18:48:18+04:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+05:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2008-10-10T18:48:50+04:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+05:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2008-11-04T17:49:32.1222604+03:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-05-18T20:11:13.1807219+04:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
